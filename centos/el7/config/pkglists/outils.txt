@@ -1,0 +1,22 @@
+# Outils 
+acpid
+git
+glances
+iperf
+iptables-services
+lftp
+lynx
+mtools
+ncftp
+nmap
+ntfs-3g
+ntfsprogs
+python2-speedtest-cli
+psmisc
+recode
+rtorrent
+setroubleshoot-server
+tree
+usbutils
+whois
+
