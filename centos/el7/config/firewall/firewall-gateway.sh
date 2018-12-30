@@ -1,7 +1,8 @@
 #!/bin/sh
 #
 # firewall-gateway.sh
-
+#test
+#test1
 # Commandes
 IPT=/sbin/iptables
 MOD=/sbin/modprobe
